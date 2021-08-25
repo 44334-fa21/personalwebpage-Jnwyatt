@@ -1,1 +1,37 @@
+body{background-color: #8DD1CA;
+    font-family: Arial, Verdana sans-serif; 
+    margin: auto;
+}
+header{ background-color: #8DD1CA;
+    padding-left: 20px;
+    
+}
+a:hover { color:#ffffff; 
+}
+a:visited {color: #000000;} 
+
+
+img{
+    padding: 10px;
+    float: left;
+    display: inline-block;
+}
+h1{ 
+    
+    padding: 10px;
+}
+h2{
+    padding: 10px;
+    display: inline-block;
+}
+h3{
+    padding: 10px;
+    display: inline-block  
+}
+ul{ list-style-type: square;
+} 
+footer{font-style: italic;
+    text-align: center;
+} 
+    
 /*Personal Web Page Style Sheet */
